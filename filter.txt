@@ -1,0 +1,3 @@
+# block anti-adblock on animixplay.fun
+www1.animixplayer.top##^script:has-text(detectAdblock)
+animixplay.fun##^script:has-text(detectAdblock)
