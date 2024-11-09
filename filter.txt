@@ -1,3 +1,6 @@
 # block anti-adblock on animixplay.fun
 www1.animixplayer.top##^script:has-text(detectAdblock)
 animixplay.fun##^script:has-text(detectAdblock)
+
+# block anikoto popup on animesugetv.io
+animesugetv.io##^script:has-text(https://cdn.jsdelivr.net/gh/itspro-dev/project_files@master/anikoto.js)
